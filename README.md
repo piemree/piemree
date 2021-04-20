@@ -10,6 +10,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piemree&show_icons=true&locale=en&layout=compact" alt="piemree" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piemree&show_icons=true&locale=en" alt="piemree" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piemree&" alt="piemree" /></p>
