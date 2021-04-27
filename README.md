@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">I'm a full stack web developer.</h3>
 
-- 🔭 I’m currently working on [Textdia](https://github.com/piemree/Texdia)
+- 🔭 I’m currently working on [Customer-Managment](https://github.com/piemree/Customer-managment-nuxt)
 
 
 <h3 align="left">Languages and Tools:</h3>
